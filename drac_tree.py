@@ -43,7 +43,8 @@ for p in p_words:
         temp_p += s
         if s != []:
             word = s[0]
-        temp_s.append(word)
+        temp_dict_s = {'word': word}
+        temp_s.append(temp_dict_s)
     freq_dist = nltk.FreqDist(temp_p)
     needed_word = freq_dist.most_common(1)[0][0]
     temp_dict = {'word': needed_word, 'children': [temp_s]}

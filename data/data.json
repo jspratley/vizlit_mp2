@@ -3,7 +3,9 @@
         {
             "children": [
                 [
-                    "chapter"
+                    {
+                        "word": "chapter"
+                    }
                 ]
             ],
             "word": "chapter"
@@ -11,7 +13,9 @@
         {
             "children": [
                 [
-                    "harker"
+                    {
+                        "word": "harker"
+                    }
                 ]
             ],
             "word": "chapter"
@@ -19,19 +23,31 @@
         {
             "children": [
                 [
-                    "shorthand"
+                    {
+                        "word": "shorthand"
+                    }
                 ]
             ],
-            "word": "chapter"
+            "word": "shorthand"
         },
         {
             "children": [
                 [
-                    "shorthand",
-                    "arriv",
-                    "buda",
-                    "arriv",
-                    "bridg"
+                    {
+                        "word": "shorthand"
+                    },
+                    {
+                        "word": "arriv"
+                    },
+                    {
+                        "word": "buda"
+                    },
+                    {
+                        "word": "arriv"
+                    },
+                    {
+                        "word": "bridg"
+                    }
                 ]
             ],
             "word": "arriv"
@@ -39,12 +55,24 @@
         {
             "children": [
                 [
-                    "klausenburgh",
-                    "hotel",
-                    "chicken",
-                    "mina",
-                    "abl",
-                    "abl"
+                    {
+                        "word": "klausenburgh"
+                    },
+                    {
+                        "word": "hotel"
+                    },
+                    {
+                        "word": "chicken"
+                    },
+                    {
+                        "word": "mina"
+                    },
+                    {
+                        "word": "abl"
+                    },
+                    {
+                        "word": "abl"
+                    }
                 ]
             ],
             "word": "arriv"
@@ -52,10 +80,18 @@
         {
             "children": [
                 [
-                    "book",
-                    "border",
-                    "abl",
-                    "enter"
+                    {
+                        "word": "book"
+                    },
+                    {
+                        "word": "border"
+                    },
+                    {
+                        "word": "abl"
+                    },
+                    {
+                        "word": "enter"
+                    }
                 ]
             ],
             "word": "countri"
@@ -63,11 +99,21 @@
         {
             "children": [
                 [
-                    "dacian",
-                    "attila",
-                    "centuri",
-                    "carpathian",
-                    "count"
+                    {
+                        "word": "dacian"
+                    },
+                    {
+                        "word": "attila"
+                    },
+                    {
+                        "word": "centuri"
+                    },
+                    {
+                        "word": "carpathian"
+                    },
+                    {
+                        "word": "count"
+                    }
                 ]
             ],
             "word": "countri"
@@ -75,14 +121,30 @@
         {
             "children": [
                 [
-                    "bed",
-                    "caraf",
-                    "continu",
-                    "breakfast",
-                    "recip",
-                    "breakfast",
-                    "east",
-                    "china"
+                    {
+                        "word": "bed"
+                    },
+                    {
+                        "word": "caraf"
+                    },
+                    {
+                        "word": "continu"
+                    },
+                    {
+                        "word": "breakfast"
+                    },
+                    {
+                        "word": "recip"
+                    },
+                    {
+                        "word": "breakfast"
+                    },
+                    {
+                        "word": "east"
+                    },
+                    {
+                        "word": "china"
+                    }
                 ]
             ],
             "word": "countri"
@@ -90,18 +152,42 @@
         {
             "children": [
                 [
-                    "beauti",
-                    "castl",
-                    "edg",
-                    "attir",
-                    "come",
-                    "clumsi",
-                    "ballet",
-                    "baggi",
-                    "black",
-                    "picturesqu",
-                    "band",
-                    "assert"
+                    {
+                        "word": "beauti"
+                    },
+                    {
+                        "word": "castl"
+                    },
+                    {
+                        "word": "edg"
+                    },
+                    {
+                        "word": "attir"
+                    },
+                    {
+                        "word": "come"
+                    },
+                    {
+                        "word": "clumsi"
+                    },
+                    {
+                        "word": "ballet"
+                    },
+                    {
+                        "word": "baggi"
+                    },
+                    {
+                        "word": "black"
+                    },
+                    {
+                        "word": "picturesqu"
+                    },
+                    {
+                        "word": "band"
+                    },
+                    {
+                        "word": "assert"
+                    }
                 ]
             ],
             "word": "countri"
@@ -109,10 +195,18 @@
         {
             "children": [
                 [
-                    "bistritz",
-                    "borgo",
-                    "ago",
-                    "assist"
+                    {
+                        "word": "bistritz"
+                    },
+                    {
+                        "word": "borgo"
+                    },
+                    {
+                        "word": "ago"
+                    },
+                    {
+                        "word": "assist"
+                    }
                 ]
             ],
             "word": "countri"
@@ -120,12 +214,24 @@
         {
             "children": [
                 [
-                    "count",
-                    "apron",
-                    "bow",
-                    "harker",
-                    "door",
-                    "immedi"
+                    {
+                        "word": "count"
+                    },
+                    {
+                        "word": "apron"
+                    },
+                    {
+                        "word": "bow"
+                    },
+                    {
+                        "word": "harker"
+                    },
+                    {
+                        "word": "door"
+                    },
+                    {
+                        "word": "immedi"
+                    }
                 ]
             ],
             "word": "countri"
@@ -133,12 +239,24 @@
         {
             "children": [
                 [
-                    "carpathian",
-                    "anxious",
-                    "night",
-                    "bukovina",
-                    "await",
-                    "beauti"
+                    {
+                        "word": "carpathian"
+                    },
+                    {
+                        "word": "anxious"
+                    },
+                    {
+                        "word": "night"
+                    },
+                    {
+                        "word": "bukovina"
+                    },
+                    {
+                        "word": "await"
+                    },
+                    {
+                        "word": "beauti"
+                    }
                 ]
             ],
             "word": "countri"
@@ -146,7 +264,9 @@
         {
             "children": [
                 [
-                    "friend"
+                    {
+                        "word": "friend"
+                    }
                 ]
             ],
             "word": "countri"
@@ -154,7 +274,9 @@
         {
             "children": [
                 [
-                    "dracula"
+                    {
+                        "word": "dracula"
+                    }
                 ]
             ],
             "word": "countri"
@@ -162,12 +284,24 @@
         {
             "children": [
                 [
-                    "coach",
-                    "answer",
-                    "frighten",
-                    "letter",
-                    "castl",
-                    "comfort"
+                    {
+                        "word": "coach"
+                    },
+                    {
+                        "word": "answer"
+                    },
+                    {
+                        "word": "frighten"
+                    },
+                    {
+                        "word": "letter"
+                    },
+                    {
+                        "word": "castl"
+                    },
+                    {
+                        "word": "comfort"
+                    }
                 ]
             ],
             "word": "countri"
@@ -175,7 +309,9 @@
         {
             "children": [
                 [
-                    "hyster"
+                    {
+                        "word": "hyster"
+                    }
                 ]
             ],
             "word": "countri"
@@ -183,12 +319,24 @@
         {
             "children": [
                 [
-                    "hyster",
-                    "oh",
-                    "herr",
-                    "excit",
-                    "abl",
-                    "busi"
+                    {
+                        "word": "hyster"
+                    },
+                    {
+                        "word": "oh"
+                    },
+                    {
+                        "word": "herr"
+                    },
+                    {
+                        "word": "excit"
+                    },
+                    {
+                        "word": "abl"
+                    },
+                    {
+                        "word": "busi"
+                    }
                 ]
             ],
             "word": "countri"
@@ -196,9 +344,15 @@
         {
             "children": [
                 [
-                    "day",
-                    "answer",
-                    "head"
+                    {
+                        "word": "day"
+                    },
+                    {
+                        "word": "answer"
+                    },
+                    {
+                        "word": "head"
+                    }
                 ]
             ],
             "word": "countri"
@@ -206,10 +360,18 @@
         {
             "children": [
                 [
-                    "oh",
-                    "oh",
-                    "day",
-                    "say"
+                    {
+                        "word": "oh"
+                    },
+                    {
+                        "word": "oh"
+                    },
+                    {
+                        "word": "day"
+                    },
+                    {
+                        "word": "say"
+                    }
                 ]
             ],
             "word": "countri"
@@ -217,21 +379,51 @@
         {
             "children": [
                 [
-                    "day",
-                    "clock",
-                    "clock",
-                    "comfort",
-                    "day",
-                    "comfort",
-                    "allow",
-                    "duti",
-                    "crucifix",
-                    "churchman",
-                    "doubt",
-                    "coach",
-                    "crucifix",
-                    "book",
-                    "coach"
+                    {
+                        "word": "day"
+                    },
+                    {
+                        "word": "clock"
+                    },
+                    {
+                        "word": "clock"
+                    },
+                    {
+                        "word": "comfort"
+                    },
+                    {
+                        "word": "day"
+                    },
+                    {
+                        "word": "comfort"
+                    },
+                    {
+                        "word": "allow"
+                    },
+                    {
+                        "word": "duti"
+                    },
+                    {
+                        "word": "crucifix"
+                    },
+                    {
+                        "word": "churchman"
+                    },
+                    {
+                        "word": "doubt"
+                    },
+                    {
+                        "word": "coach"
+                    },
+                    {
+                        "word": "crucifix"
+                    },
+                    {
+                        "word": "book"
+                    },
+                    {
+                        "word": "coach"
+                    }
                 ]
             ],
             "word": "countri"
@@ -239,7 +431,9 @@
         {
             "children": [
                 [
-                    "coach"
+                    {
+                        "word": "coach"
+                    }
                 ]
             ],
             "word": "countri"
@@ -247,13 +441,27 @@
         {
             "children": [
                 [
-                    "coach",
-                    "castl",
-                    "awak",
-                    "bistritz",
-                    "bacon",
-                    "disagre",
-                    "coupl"
+                    {
+                        "word": "coach"
+                    },
+                    {
+                        "word": "castl"
+                    },
+                    {
+                        "word": "awak"
+                    },
+                    {
+                        "word": "bistritz"
+                    },
+                    {
+                        "word": "bacon"
+                    },
+                    {
+                        "word": "disagre"
+                    },
+                    {
+                        "word": "coupl"
+                    }
                 ]
             ],
             "word": "countri"
@@ -261,11 +469,21 @@
         {
             "children": [
                 [
-                    "coach",
-                    "bearer",
-                    "bag",
-                    "amongst",
-                    "count"
+                    {
+                        "word": "coach"
+                    },
+                    {
+                        "word": "bearer"
+                    },
+                    {
+                        "word": "bag"
+                    },
+                    {
+                        "word": "amongst"
+                    },
+                    {
+                        "word": "count"
+                    }
                 ]
             ],
             "word": "countri"
@@ -273,11 +491,21 @@
         {
             "children": [
                 [
-                    "consider",
-                    "answer",
-                    "heart",
-                    "archway",
-                    "abreast"
+                    {
+                        "word": "consider"
+                    },
+                    {
+                        "word": "answer"
+                    },
+                    {
+                        "word": "heart"
+                    },
+                    {
+                        "word": "archway"
+                    },
+                    {
+                        "word": "abreast"
+                    }
                 ]
             ],
             "word": "start"
@@ -285,15 +513,33 @@
         {
             "children": [
                 [
-                    "abl",
-                    "blank",
-                    "appl",
-                    "amongst",
-                    "feverish",
-                    "bent",
-                    "excel",
-                    "carpathian",
-                    "bring"
+                    {
+                        "word": "abl"
+                    },
+                    {
+                        "word": "blank"
+                    },
+                    {
+                        "word": "appl"
+                    },
+                    {
+                        "word": "amongst"
+                    },
+                    {
+                        "word": "feverish"
+                    },
+                    {
+                        "word": "bent"
+                    },
+                    {
+                        "word": "excel"
+                    },
+                    {
+                        "word": "carpathian"
+                    },
+                    {
+                        "word": "bring"
+                    }
                 ]
             ],
             "word": "start"
@@ -301,10 +547,18 @@
         {
             "children": [
                 [
-                    "beyond",
-                    "afternoon",
-                    "fall",
-                    "arm"
+                    {
+                        "word": "beyond"
+                    },
+                    {
+                        "word": "afternoon"
+                    },
+                    {
+                        "word": "fall"
+                    },
+                    {
+                        "word": "arm"
+                    }
                 ]
             ],
             "word": "start"
@@ -312,10 +566,18 @@
         {
             "children": [
                 [
-                    "arm",
-                    "isten",
-                    "god",
-                    "cross"
+                    {
+                        "word": "arm"
+                    },
+                    {
+                        "word": "isten"
+                    },
+                    {
+                        "word": "god"
+                    },
+                    {
+                        "word": "cross"
+                    }
                 ]
             ],
             "word": "start"
@@ -323,20 +585,48 @@
         {
             "children": [
                 [
-                    "creep",
-                    "cool",
-                    "attir",
-                    "companion",
-                    "approach",
-                    "beauti",
-                    "calcul",
-                    "axe",
-                    "ascend",
-                    "amongst",
-                    "despit",
-                    "driver",
-                    "ad",
-                    "lamp"
+                    {
+                        "word": "creep"
+                    },
+                    {
+                        "word": "cool"
+                    },
+                    {
+                        "word": "attir"
+                    },
+                    {
+                        "word": "companion"
+                    },
+                    {
+                        "word": "approach"
+                    },
+                    {
+                        "word": "beauti"
+                    },
+                    {
+                        "word": "calcul"
+                    },
+                    {
+                        "word": "axe"
+                    },
+                    {
+                        "word": "ascend"
+                    },
+                    {
+                        "word": "amongst"
+                    },
+                    {
+                        "word": "despit"
+                    },
+                    {
+                        "word": "driver"
+                    },
+                    {
+                        "word": "ad"
+                    },
+                    {
+                        "word": "lamp"
+                    }
                 ]
             ],
             "word": "round"
@@ -344,26 +634,66 @@
         {
             "children": [
                 [
-                    "amongst",
-                    "cri",
-                    "ahead",
-                    "boat",
-                    "hold",
-                    "appear",
-                    "borgo",
-                    "bistritz",
-                    "coach",
-                    "evid",
-                    "eastern",
-                    "air",
-                    "atmospher",
-                    "convey",
-                    "black",
-                    "cloud",
-                    "lie",
-                    "disappoint",
-                    "driver",
-                    "german"
+                    {
+                        "word": "amongst"
+                    },
+                    {
+                        "word": "cri"
+                    },
+                    {
+                        "word": "ahead"
+                    },
+                    {
+                        "word": "boat"
+                    },
+                    {
+                        "word": "hold"
+                    },
+                    {
+                        "word": "appear"
+                    },
+                    {
+                        "word": "borgo"
+                    },
+                    {
+                        "word": "bistritz"
+                    },
+                    {
+                        "word": "coach"
+                    },
+                    {
+                        "word": "evid"
+                    },
+                    {
+                        "word": "eastern"
+                    },
+                    {
+                        "word": "air"
+                    },
+                    {
+                        "word": "atmospher"
+                    },
+                    {
+                        "word": "convey"
+                    },
+                    {
+                        "word": "black"
+                    },
+                    {
+                        "word": "cloud"
+                    },
+                    {
+                        "word": "lie"
+                    },
+                    {
+                        "word": "disappoint"
+                    },
+                    {
+                        "word": "driver"
+                    },
+                    {
+                        "word": "german"
+                    }
                 ]
             ],
             "word": "white"
@@ -371,15 +701,33 @@
         {
             "children": [
                 [
-                    "carriag",
-                    "expect",
-                    "bukovina",
-                    "driver",
-                    "amongst",
-                    "anim",
-                    "beard",
-                    "bright",
-                    "driver"
+                    {
+                        "word": "carriag"
+                    },
+                    {
+                        "word": "expect"
+                    },
+                    {
+                        "word": "bukovina"
+                    },
+                    {
+                        "word": "driver"
+                    },
+                    {
+                        "word": "amongst"
+                    },
+                    {
+                        "word": "anim"
+                    },
+                    {
+                        "word": "beard"
+                    },
+                    {
+                        "word": "bright"
+                    },
+                    {
+                        "word": "driver"
+                    }
                 ]
             ],
             "word": "white"
@@ -387,8 +735,12 @@
         {
             "children": [
                 [
-                    "friend",
-                    "repli"
+                    {
+                        "word": "friend"
+                    },
+                    {
+                        "word": "repli"
+                    }
                 ]
             ],
             "word": "white"
@@ -396,7 +748,9 @@
         {
             "children": [
                 [
-                    "english"
+                    {
+                        "word": "english"
+                    }
                 ]
             ],
             "word": "white"
@@ -404,10 +758,18 @@
         {
             "children": [
                 [
-                    "bukovina",
-                    "cannot",
-                    "fell",
-                    "burger"
+                    {
+                        "word": "bukovina"
+                    },
+                    {
+                        "word": "cannot"
+                    },
+                    {
+                        "word": "fell"
+                    },
+                    {
+                        "word": "burger"
+                    }
                 ]
             ],
             "word": "look"
@@ -415,7 +777,9 @@
         {
             "children": [
                 [
-                    "dead"
+                    {
+                        "word": "dead"
+                    }
                 ]
             ],
             "word": "look"
@@ -423,14 +787,30 @@
         {
             "children": [
                 [
-                    "driver",
-                    "cross",
-                    "alacr",
-                    "alongsid",
-                    "dark",
-                    "coach",
-                    "bukovina",
-                    "chill"
+                    {
+                        "word": "driver"
+                    },
+                    {
+                        "word": "cross"
+                    },
+                    {
+                        "word": "alacr"
+                    },
+                    {
+                        "word": "alongsid"
+                    },
+                    {
+                        "word": "dark"
+                    },
+                    {
+                        "word": "coach"
+                    },
+                    {
+                        "word": "bukovina"
+                    },
+                    {
+                        "word": "chill"
+                    }
                 ]
             ],
             "word": "driver"
@@ -438,17 +818,39 @@
         {
             "children": [
                 [
-                    "bade",
-                    "brandi",
-                    "comfort",
-                    "frighten",
-                    "altern",
-                    "carriag",
-                    "found",
-                    "delay",
-                    "curiou",
-                    "experi",
-                    "feel"
+                    {
+                        "word": "bade"
+                    },
+                    {
+                        "word": "brandi"
+                    },
+                    {
+                        "word": "comfort"
+                    },
+                    {
+                        "word": "frighten"
+                    },
+                    {
+                        "word": "altern"
+                    },
+                    {
+                        "word": "carriag"
+                    },
+                    {
+                        "word": "found"
+                    },
+                    {
+                        "word": "delay"
+                    },
+                    {
+                        "word": "curiou"
+                    },
+                    {
+                        "word": "experi"
+                    },
+                    {
+                        "word": "feel"
+                    }
                 ]
             ],
             "word": "driver"
@@ -456,14 +858,30 @@
         {
             "children": [
                 [
-                    "agonis",
-                    "born",
-                    "driver",
-                    "affect",
-                    "abl",
-                    "caress",
-                    "driver",
-                    "narrow"
+                    {
+                        "word": "agonis"
+                    },
+                    {
+                        "word": "born"
+                    },
+                    {
+                        "word": "driver"
+                    },
+                    {
+                        "word": "affect"
+                    },
+                    {
+                        "word": "abl"
+                    },
+                    {
+                        "word": "caress"
+                    },
+                    {
+                        "word": "driver"
+                    },
+                    {
+                        "word": "narrow"
+                    }
                 ]
             ],
             "word": "driver"
@@ -471,13 +889,27 @@
         {
             "children": [
                 [
-                    "arch",
-                    "branch",
-                    "blanket",
-                    "carri",
-                    "bay",
-                    "afraid",
-                    "dark"
+                    {
+                        "word": "arch"
+                    },
+                    {
+                        "word": "branch"
+                    },
+                    {
+                        "word": "blanket"
+                    },
+                    {
+                        "word": "carri"
+                    },
+                    {
+                        "word": "bay"
+                    },
+                    {
+                        "word": "afraid"
+                    },
+                    {
+                        "word": "dark"
+                    }
                 ]
             ],
             "word": "driver"
@@ -485,15 +917,33 @@
         {
             "children": [
                 [
-                    "blue",
-                    "check",
-                    "appear",
-                    "asleep",
-                    "appear",
-                    "aros",
-                    "appear",
-                    "dark",
-                    "blue"
+                    {
+                        "word": "blue"
+                    },
+                    {
+                        "word": "check"
+                    },
+                    {
+                        "word": "appear"
+                    },
+                    {
+                        "word": "asleep"
+                    },
+                    {
+                        "word": "appear"
+                    },
+                    {
+                        "word": "aros"
+                    },
+                    {
+                        "word": "appear"
+                    },
+                    {
+                        "word": "dark"
+                    },
+                    {
+                        "word": "blue"
+                    }
                 ]
             ],
             "word": "driver"
@@ -501,11 +951,21 @@
         {
             "children": [
                 [
-                    "absenc",
-                    "altogeth",
-                    "grim",
-                    "fear",
-                    "feel"
+                    {
+                        "word": "absenc"
+                    },
+                    {
+                        "word": "altogeth"
+                    },
+                    {
+                        "word": "grim"
+                    },
+                    {
+                        "word": "fear"
+                    },
+                    {
+                        "word": "feel"
+                    }
                 ]
             ],
             "word": "driver"
@@ -513,13 +973,27 @@
         {
             "children": [
                 [
-                    "effect",
-                    "encompass",
-                    "aid",
-                    "beat",
-                    "command",
-                    "arm",
-                    "cloud"
+                    {
+                        "word": "effect"
+                    },
+                    {
+                        "word": "encompass"
+                    },
+                    {
+                        "word": "aid"
+                    },
+                    {
+                        "word": "beat"
+                    },
+                    {
+                        "word": "command"
+                    },
+                    {
+                        "word": "arm"
+                    },
+                    {
+                        "word": "cloud"
+                    }
                 ]
             ],
             "word": "driver"
@@ -527,11 +1001,21 @@
         {
             "children": [
                 [
-                    "calech",
-                    "afraid",
-                    "cloud",
-                    "ascend",
-                    "act"
+                    {
+                        "word": "calech"
+                    },
+                    {
+                        "word": "afraid"
+                    },
+                    {
+                        "word": "cloud"
+                    },
+                    {
+                        "word": "ascend"
+                    },
+                    {
+                        "word": "act"
+                    }
                 ]
             ],
             "word": "driver"
